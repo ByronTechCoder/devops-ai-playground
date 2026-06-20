@@ -18,6 +18,7 @@ ai-agents/
 ├── tool-use/            # Agents with external tool integrations
 ├── multi-agent/         # Multi-agent orchestration experiments
 └── frameworks/          # Framework-specific examples and comparisons
+    └── github-custom-agents/ # GitHub custom agent experiments
 ```
 
 ## Getting Started
