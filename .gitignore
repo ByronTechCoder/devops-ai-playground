@@ -32,8 +32,6 @@ secrets/
 *.swp
 *.swo
 *~
-.DS_Store
-Thumbs.db
 
 # Terraform
 **/.terraform/
@@ -41,9 +39,6 @@ Thumbs.db
 *.tfstate.backup
 *.tfplan
 .terraform.lock.hcl
-
-# Docker
-*.log
 
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
