@@ -16,6 +16,7 @@ This section contains DevOps experiments, pipelines, and infrastructure-as-code 
 ```
 devops/
 ├── ci-cd/          # CI/CD pipeline examples
+│   └── github-pipelines/ # GitHub pipeline experiments
 ├── docker/         # Dockerfile and Docker Compose examples
 ├── kubernetes/     # K8s manifests and Helm charts
 ├── terraform/      # Infrastructure as code
